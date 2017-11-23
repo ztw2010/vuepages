@@ -1,7 +1,7 @@
 # Vue版仿开源中国APP
 访问地址：[https://ztw2010.github.io/vuepages/index.html](https://ztw2010.github.io/vuepages/index.html) 推荐在Chrome的手机模式查看，页面如下：
 
-![image](http://github.com/ztw2010/vuepages/raw/master/images/01.png)
+![image](http://github.com/ztw2010/vuepages/raw/master/images/01.jpg)
 ![image](http://github.com/ztw2010/vuepages/raw/master/images/02.png)
 ![image](http://github.com/ztw2010/vuepages/raw/master/images/03.png)
 ![image](http://github.com/ztw2010/vuepages/raw/master/images/04.png)
